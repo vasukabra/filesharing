@@ -1,0 +1,17 @@
+# .gitignore
+
+__pycache__/
+*.py[cod]
+*.sqlite3
+myenv/
+venv/
+*.log
+*.pot
+*.pyc
+.DS_Store
+*.env
+.env
+/staticfiles/
+/media/
+/node_modules/
+/*.db
